@@ -60,7 +60,12 @@ __Exploratory Data Analysis (EDA)__ consists of techniques that are typically ap
 
 - EDA helps us to uncover the underlying structure of the dataset, identify important variables, detect outliers and anomalies, and test underlying assumptions.
 - EDA can also point out missing data as may be relevant to building desired models.<br>
-![image.png](images/eda_quote.png)
+![image.png](images/eda_quote.png)<br><br>
+
+<a id=section2></a>
+### [Machine Learning](./MachineLearning)
+![image.png](images/machine_learning.png)<br>
+
 
 
 
