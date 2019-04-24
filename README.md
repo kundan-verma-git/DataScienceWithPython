@@ -70,4 +70,4 @@ __Machine learning__ is an application of __artificial intelligence__ (AI) that 
 - Machine Learning is just __Data + Algorithms__, but Data is more important.
 - It is used in Search engine, data mining, spam detection, character recognition. 
 
-## ------------------------- ##
+## --------------------------------------------------------------------------------------------------------------------------- ##
