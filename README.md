@@ -54,14 +54,14 @@ This repository is about Exploratory Data Analysis and different types of Machin
 ___
 <a id=section1></a>
 ### [Exploratory Data Analysis)](./ExploratoryDataAnalysis)
-![image.png](image/eda-exploratory-data-analysis.png)<br><br>
+![image.png](images/eda-exploratory-data-analysis.png)<br>
 __Exploratory Data Analysis__ refers to the critical process of performing initial investigations on data so as to discover patterns,to spot anomalies,to test hypothesis and to check assumptions with the help of summary statistics and graphical representations.<br>
 __Which type of tasks tackle EDA?__<br>
-- Spotting mistakes and missing data;
-- Mapping out the underlying structure of the data;
-- Identifying the most important variables;
-- Listing anomalies and outliers;
-- Testing a hypotheses / checking assumptions related to a specific model;
+- Spotting mistakes and missing data
+- Mapping out the underlying structure of the data
+- Identifying the most important variables
+- Listing anomalies and outliers
+- Testing a hypotheses / checking assumptions related to a specific model
 - Estimating parameters and figuring out the associated confidence intervals or margins of error.<br>
 
 
