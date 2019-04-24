@@ -41,6 +41,7 @@ __For example__, a data scientist may think that her goal is to create a high pe
 Here is a diagram representing a simpler version of this process.<br>
 ![image.jpg](images/DSP.jpg)<br><br>
 ## Data Scientists Role
+__Data Scientist__ is the one, which make sense out of all this huge data and requires many different roles. Each of these roles brings different critical skills and insights to make this process of transforming huge pile of Data to __valuable insights__.
 ![image.png](images/SkillSet.png)
 
 
