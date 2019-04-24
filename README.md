@@ -65,10 +65,9 @@ __Exploratory Data Analysis (EDA)__ consists of techniques that are typically ap
 <a id=section2></a>
 ### [Machine Learning](./MachineLearning)
 ![image.png](images/machine_learning.png)<br>
+__Machine learning__ is an application of __artificial intelligence__ (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly __programmed__.<br>
+- Machine learning is like farming or gardening. Seeds is the algorithms, nutrients is the data, the gardner is you and plants is the programs.
+- Machine Learning is just __Data + Algorithms__, but Data is more important.
+- It is used in Search engine, data mining, spam detection, character recognition. 
 
-
-
-
-
-
-
+## ------------------------- ##
