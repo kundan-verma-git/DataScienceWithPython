@@ -1,4 +1,4 @@
-# DataScienceWithPython
+# Data Science With Python
 ![image.jpg](images/data-science-banner.jpg)
 <br><br><br>
 Data Science is a latest __buzzword__ floating around. It desrves to, as it is one of the most interesting subfield of Computer Science.<br>
