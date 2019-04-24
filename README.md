@@ -56,14 +56,11 @@ ___
 <a id=section1></a>
 ### [Exploratory Data Analysis](./ExploratoryDataAnalysis)
 ![image.png](images/eda_image.jpg)<br>
-__Exploratory Data Analysis__ refers to the critical process of performing initial investigations on data so as to discover patterns,to spot anomalies,to test hypothesis and to check assumptions with the help of summary statistics and graphical representations.<br>
-__Which type of tasks tackle EDA?__<br>
-- Spotting mistakes and missing data
-- Mapping out the underlying structure of the data
-- Identifying the most important variables
-- Listing anomalies and outliers
-- Testing a hypotheses / checking assumptions related to a specific model
-- Estimating parameters and figuring out the associated confidence intervals or margins of error.<br>
+__Exploratory Data Analysis (EDA)__ consists of techniques that are typically applied to gain insight into a dataset before doing any formal modelling<br>
+
+- EDA helps us to uncover the underlying structure of the dataset, identify important variables, detect outliers and anomalies, and test underlying assumptions.
+- EDA can also point out missing data as may be relevant to building desired models.<br>
+![image.png](images/eda_quote.png)
 
 
 
