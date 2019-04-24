@@ -39,7 +39,9 @@ __For example__, a data scientist may think that her goal is to create a high pe
 - Business decisions and/or changes are made based on the results
 - Repeat the process to solve a new problem <br>
 Here is a diagram representing a simpler version of this process.<br>
-![image.jpg](images/DSP.jpg)<br><br>
+![image.jpg](images/DSP.jpg)<br>
+## Top Python IDE's for Data Science
+![image.jpg](images/IDE.jpg)<br>
 
 
 
