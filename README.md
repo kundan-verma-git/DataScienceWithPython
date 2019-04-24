@@ -25,6 +25,22 @@ __Data science__ is formerly known as __datalogy__.<br>
 
 Each of these is intended to address a specific goal and/or solve a specific problem. The real question is which goal, and whose goal is it?
 
-__For example__, a data scientist may think that her goal is to create a high performing prediction engine. The business that plans to utilize the prediction engine, on the other hand, may have the goal of increasing revenue, which can be achieved by using this prediction engine.
+__For example__, a data scientist may think that her goal is to create a high performing prediction engine. The business that plans to utilize the prediction engine, on the other hand, may have the goal of increasing revenue, which can be achieved by using this prediction engine.<br>
+## The Data Science Process
+- Data acquisition, collection, and storage
+- Discovery and goal identification (ask the right questions)
+- Access, ingest, and integrate data
+- Processing and cleaning data (munging/wrangling)
+- Initial data investigation and exploratory data analysis (EDA)
+- Choosing one or more potential models and algorithms
+- Apply data science methods and techniques (e.g., machine learning, statistical modeling, artificial intelligence, …)
+- Measuring and improving results (validation and tuning)
+- Delivering, communicating, and/or presenting final results
+- Business decisions and/or changes are made based on the results
+- Repeat the process to solve a new problem <br>
+Here is a diagram representing a simpler version of this process.<br>
+![image.jpg](images/DSP.jpg)<br><br>
+
+
 
 
