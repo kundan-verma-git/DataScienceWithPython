@@ -3,6 +3,7 @@
 <br><br><br>
 Data Science is a latest __buzzword__ floating around. It desrves to, as it is one of the most interesting subfield of Computer Science.<br>
 __What does Data Science really means?__<br>
+![image.jpg](images/data_science_process.jpg)<br>
 __Data science__ is a broad field that refers to the collective processes, theories, concepts, tools and technologies that enable the review, analysis and extraction of valuable knowledge and information from __raw data__.<br>
 __Data science__ is formerly known as __datalogy__.<br>
 ## The Pillars of Data Science Expertise
@@ -53,7 +54,7 @@ This repository is about Exploratory Data Analysis and different types of Machin
 
 ___
 <a id=section1></a>
-### [Exploratory Data Analysis)](./ExploratoryDataAnalysis)
+### [Exploratory Data Analysis](./ExploratoryDataAnalysis)
 ![image.png](images/eda-exploratory-data-analysis.png)<br>
 __Exploratory Data Analysis__ refers to the critical process of performing initial investigations on data so as to discover patterns,to spot anomalies,to test hypothesis and to check assumptions with the help of summary statistics and graphical representations.<br>
 __Which type of tasks tackle EDA?__<br>
