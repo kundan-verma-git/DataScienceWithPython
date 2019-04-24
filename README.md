@@ -42,6 +42,8 @@ Here is a diagram representing a simpler version of this process.<br>
 ![image.jpg](images/DSP.jpg)<br>
 ## Top Python IDE's for Data Science
 ![image.jpg](images/IDE.jpg)<br>
+## Data Scientists Role
+![image.png](images/SkillSet.png)
 
 
 
