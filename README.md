@@ -27,7 +27,7 @@ __Data science__ is formerly known as __datalogy__.<br>
 
 Each of these is intended to address a specific goal and/or solve a specific problem. The real question is which goal, and whose goal is it?
 
-__For example__, a data scientist may think that her goal is to create a high performing prediction engine. The business that plans to utilize the prediction engine, on the other hand, may have the goal of increasing revenue, which can be achieved by using this prediction engine.<br>
+__For example__, a __data scientist__ may think that his goal is to __create a high performing prediction engine__. __The business__ that plans to __utilize the prediction engine__, on the __other hand__, may have the __goal of increasing revenue__, which can be achieved by __using this prediction engine__.<br>
 ## The Data Science Process
 - Data acquisition, collection, and storage
 - Discovery and goal identification (ask the right questions)
@@ -47,7 +47,7 @@ __Data Scientist__ is the one, which make sense out of all this huge data and re
 ![image.png](images/SkillSet.png)<br>
 
 ## Repository Overview
-This repository is about Exploratory Data Analysis and different types of Machine Learning algorithm approaches as per the industry practices.
+This repository is about __Exploratory Data Analysis__ and different types of __Machine Learning__ algorithm approaches as per the industry practices.
 ## Sub-Field Of Data Science
 - [Exploratory Data Analyisis](#section1)<br>
 - [Machine Learning](#section2)<br><br>
@@ -58,16 +58,16 @@ ___
 ![image.png](images/eda_image.jpg)<br>
 __Exploratory Data Analysis (EDA)__ consists of techniques that are typically applied to gain insight into a dataset before doing any formal modelling<br>
 
-- EDA helps us to uncover the underlying structure of the dataset, identify important variables, detect outliers and anomalies, and test underlying assumptions.
-- EDA can also point out missing data as may be relevant to building desired models.<br>
+- __EDA__ helps us to __uncover the underlying structure__ of the dataset, __identify important variables__, __detect outliers and anomalies__, and test underlying assumptions.
+- __EDA__ can also __point out missing data__ as may be relevant to __building desired models__.<br>
 ![image.png](images/eda_quote.png)<br><br>
 
 <a id=section2></a>
 ### [Machine Learning](./MachineLearning)
 ![image.png](images/machine_learning.png)<br>
-__Machine learning__ is an application of __artificial intelligence__ (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly __programmed__.<br>
-- Machine learning is like farming or gardening. Seeds is the algorithms, nutrients is the data, the gardner is you and plants is the programs.
-- Machine Learning is just __Data + Algorithms__, but Data is more important.
-- It is used in Search engine, data mining, spam detection, character recognition. 
+__Machine learning__ is an application of __artificial intelligence__ (AI) that provides systems the ability to __automatically learn and improve from experience__ without being explicitly __programmed__.<br>
+- __Machine learning__ is like __farming or gardening__. __Seeds__ is the algorithms, __nutrients__ is the data, __the gardner__ is you and __plants__ is the programs.
+- __Machine Learning__ is just __Data + Algorithms__, but __Data is more important__.
+- It is used in __Search engine, data mining, spam detection, character recognition__. 
 
 ## ---------------------------------------------------------------------------------------------------------- ##
