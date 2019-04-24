@@ -9,4 +9,22 @@ __Data science__ is formerly known as __datalogy__.<br>
 - Statistics and probability
 - Computer science and software programming
 - Written and verbal communication <br>
+## Data Science Goals and Deliverables
+- Prediction (predict a value based on inputs)
+- Classification (e.g., spam or not spam)
+- Recommendations (e.g., Amazon and Netflix recommendations)
+- Pattern detection and grouping (e.g., classification without known classes)
+- Anomaly detection (e.g., fraud detection)
+- Recognition (image, text, audio, video, facial, …)
+- Actionable insights (via dashboards, reports, visualizations, …)
+- Automated processes and decision-making (e.g., credit card approval)
+- Scoring and ranking (e.g., FICO score)
+- Segmentation (e.g., demographic-based marketing)
+- Optimization (e.g., risk management)
+- Forecasts (e.g., sales and revenue)<br>
+
+Each of these is intended to address a specific goal and/or solve a specific problem. The real question is which goal, and whose goal is it?
+
+__For example__, a data scientist may think that her goal is to create a high performing prediction engine. The business that plans to utilize the prediction engine, on the other hand, may have the goal of increasing revenue, which can be achieved by using this prediction engine.
+
 
