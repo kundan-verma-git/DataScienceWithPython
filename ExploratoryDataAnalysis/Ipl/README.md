@@ -29,17 +29,34 @@
  
  ## Way To Do Ipl EDA
 - load the required packages
-- load the IPL Dataset
+- reading the IPL Dataset
 - Apply the statistical method to understand the data
 - Apply the pandas profiling before preprocessing for better understanding of data
 - Preprocessing of data
 - Pandas Profiling after preprocessing
 - Visualization of Data
 
-## visualization of IPL's Season
-![image.png](./data.png)
+## IPL Season Visualization
+![image.png](./season.png)
+ - Now we can conclude that from the graph IPL season played from 2008 to till 2018 according to this dataset.
+ - Most Number of matches played in 2013 Season.
+ - Less number of matches played in 2009 Season.<br>
+ ## IPL Team Visualization
+ - According to graph,Most of the time Mumbai Indians is the match winner in whole season.
+ - Rising Pune SuperGiants is a match loser.<br>
+ 
+ ## Conclusion After EDA
+- We used the dataset containing 696 match data in order to predict the outcome of the Indian Premier League match.
+- These number of matches details were obtained after putting the dataset through cleaning and pre-processing.
+- Based On these data we conclude that Mumbai Indians is the the most winning team in whole IPL.
+- There have been eleven seasons of the IPL tournament.
+- The current IPL title holders are the Chennai Super Kings, who won the 2018 season.
+- The most successful franchises in the tournament are the Chennai Super Kings and Mumbai Indians with 3 tournament wins each.
+- Whoever team won the toss most probably they won the match.
+- 2013 season had played the most number of matches.
+- Most Successful team roll played as Mumbai Indians.
 
 
  
- 
- 
+ ## -------------------------------------------------------------------------------------- ##
+
