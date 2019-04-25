@@ -29,7 +29,7 @@ The process of __evaluating data__ using __analytical and logical reasoning__ to
 ![image.jpg](images/Data-Visualization.jpg)<br>
 __Data visualization__ is the __graphical representation__ of __information__ and __data__. By using __visual elements__ like __charts__, __graphs__, and __maps__, __data visualization__ tools provide an accessible way to __see__ and __understand trends__, __outliers__, and __patterns__ in __data__.<br>
 -  one of the best ways to understand the data is visualization.
-- In the __world of Big Data__, __data visualization__ tools and technologies are essential to __analyze massive amounts of information__ and make data-driven decisions.<br><br>
+- In the __world of Big Data__, __data visualization__ tools and technologies are essential to __analyze massive amounts of information__ and make data-driven decisions.<br>
 ### What are visual aids for exploratory analysis?<br>
 - __UniVariate Plotting__ 
   - Bar Chart
@@ -50,6 +50,15 @@ __Data visualization__ is the __graphical representation__ of __information__ an
   - Swarm Plot<br>
   
 ![image.jpg](images/GraphPlot.jpg)
+### Statistical AnaLysis 
+__Statistical AnaLysis__ is the science of collecting, exploring and presenting large amounts of data to discover underlying patterns and trends.
+__Statistical analysis can be broken down into five discrete steps, as follows__
+- Describe the __nature of the data__ to be analyzed
+- Explore the __relation of the data__ to the underlying population.
+- Create a __model__ to summarize understanding of how the data relates to the underlying population.
+- Prove (or disprove) the __validity of the model__.
+- Employ __predictive analytics__ to run scenarios that will help guide future actions.<br>
+![image.png](images/stat_analysis.png)
 
 
 
