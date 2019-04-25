@@ -75,7 +75,7 @@ ___
 - In this challenge, we will do the complete the __analysis__ of what __sorts of people__ were likely to __survive__.<br>
 ___
 <a id=section2></a>
-### [Titanic Exploratory Data Analysis](./Ipl)
+### [India Premier League Exploratory Data Analysis](./Ipl)
 ![image.jpg](images/ipl.jpg)<br><br>
 - The __Indian Premier League (IPL)__ is a professional __Twenty20 cricket__ league in __India__ contested during __March or April and May__ of every year by __eight teams__ representing eight different cities in __India__.
 - The __league__ was __founded__ by the __Board of Control for Cricket in India (BCCI)__ in __2008__, and is regarded as the brainchild of __Lalit Modi__, the __founder__ and former commissioner of the __league__.
