@@ -9,7 +9,7 @@ __
 - This __dataset__ consists of the __information__ about people boarding the famous __RMS Titanic__. Various variables present in the __dataset__ includes __data of age__, __sex__, __fare__, __ticket__ etc.
 - The dataset comprises of __891 observations of 12 columns__.<br>
 ## Objective
-![image.jpg](./survived.jpg)<br>
+![image.jpg](./Survived.jpg)<br>
 - Our objectives is to analyze the what sorts of people were likely to survived or died.
 
 
