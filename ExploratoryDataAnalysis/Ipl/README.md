@@ -19,7 +19,7 @@
   - Seasonwise winning team etc.
   
   ## Number of team participated in IPL
-  ![image.jpg](./All-8-IPL-teams.jpg)
+  ![image.png](./ipl_logo.png)
   
   
  
