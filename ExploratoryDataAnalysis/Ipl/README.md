@@ -21,5 +21,25 @@
   ## Number of team participated in IPL
   ![image.png](./ipl_logo.png)
   
-  
+  ## DataSet Info
+ - __Dataset__ contains data of all IPL matches from __2008__ season till __2018__ season.
+ - __Dataset__ has __season, city, date, team1, team2, toss_winner, toss_decision, result, dl_applied, winner, win_by_runs,     win_by_wickets, player_of_match, venue, umpire1, umpire2, umpire3__.
+ - Dataset comprises of __696 observations__ of __28 columns__.
+ ![image.png](./data.png)<br>
+ 
+ ## Way To Do Ipl EDA
+- load the required packages
+- load the IPL Dataset
+- Apply the statistical method to understand the data
+- Apply the pandas profiling before preprocessing for better understanding of data
+- Preprocessing of data
+- Pandas Profiling after preprocessing
+- Visualization of Data
+
+## visualization of IPL's Season
+![image.png](./data.png)
+
+
+ 
+ 
  
