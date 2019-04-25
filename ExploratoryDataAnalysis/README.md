@@ -81,4 +81,4 @@ ___
 - The __Indian Premier League (IPL)__ is a professional __Twenty20 cricket__ league in __India__ contested during __March or April and May__ of every year by __eight teams__ representing eight different cities in __India__.
 - The __league__ was __founded__ by the __Board of Control for Cricket in India (BCCI)__ in __2008__, and is regarded as the brainchild of __Lalit Modi__, the __founder__ and former commissioner of the __league__.
 - The objective of the __Exploratory Data Analysis__ is to try and __analyze__ Indian Premier League __data__.<br>
-- [Link for the Jupyter notebook](./Ipl/)
+- [Link for the Jupyter notebook](./Ipl/IPL_Match_Eda.ipynb)
