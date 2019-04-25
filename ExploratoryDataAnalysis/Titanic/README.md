@@ -8,7 +8,7 @@
 
 ## Objective
 ![image.jpg](./Survived.jpg)<br>
-- Our objectives is to __analyze__ the what sorts of people were likely to __survived__ or __died__.
+- __Our objective__ is to __analyze__ the what __sorts of people__ were likely to __survived__ or __died__.
 ## DataSet Info
 - This __dataset__ consists of the __information__ about people boarding the famous __RMS Titanic__. Various variables present in the __dataset__ includes __data of age__, __sex__, __fare__, __ticket__ etc.
 - The dataset comprises of __891 observations of 12 columns__.<br> 
