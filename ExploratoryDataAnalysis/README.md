@@ -10,7 +10,7 @@ __Which type of tasks tackle EDA?__<br>
 - Testing a hypotheses / checking assumptions related to a specific model
 - Establishing a parsimonious model (one that can be used to explain the data with minimal predictor variables);
 - Estimating parameters and figuring out the associated confidence intervals or margins of error.<br>
-## Data Analysis Process<br>
+## Exploratory Data Analysis Process<br>
 ![image.pmg](images/data_analysis.png)<br>
 The process of __evaluating data__ using __analytical and logical reasoning__ to examine each component of the __data__ provided.
 ## Recomended Process for Exploratory Data Analysis.
@@ -30,7 +30,7 @@ The process of __evaluating data__ using __analytical and logical reasoning__ to
 __Data visualization__ is the __graphical representation__ of __information__ and __data__. By using __visual elements__ like __charts__, __graphs__, and __maps__, __data visualization__ tools provide an accessible way to __see__ and __understand trends__, __outliers__, and __patterns__ in __data__.<br>
 -  one of the best ways to understand the data is visualization.
 - In the __world of Big Data__, __data visualization__ tools and technologies are essential to __analyze massive amounts of information__ and make data-driven decisions.<br><br>
-__What are visual aids for exploratory analysis?__<br>
+### What are visual aids for exploratory analysis?<br>
 - __UniVariate Plotting__ 
   - Bar Chart
   - Line Chart
@@ -47,7 +47,7 @@ __What are visual aids for exploratory analysis?__<br>
   - Grouped Box Plot
   - Heap Map Plot
   - Parallel Co-Ordinates
-  - Swarn Plot<br>
+  - Swarm Plot<br>
   
 ![image.jpg](images/GraphPlot.jpg)
 
