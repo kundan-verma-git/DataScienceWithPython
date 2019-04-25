@@ -29,9 +29,27 @@ The process of __evaluating data__ using __analytical and logical reasoning__ to
 ![image.jpg](images/Data-Visualization.jpg)<br>
 __Data visualization__ is the __graphical representation__ of __information__ and __data__. By using __visual elements__ like __charts__, __graphs__, and __maps__, __data visualization__ tools provide an accessible way to __see__ and __understand trends__, __outliers__, and __patterns__ in __data__.<br>
 -  one of the best ways to understand the data is visualization.
-- In the __world of Big Data__, __data visualization__ tools and technologies are essential to __analyze massive amounts of information__ and make data-driven decisions.
-
-
+- In the __world of Big Data__, __data visualization__ tools and technologies are essential to __analyze massive amounts of information__ and make data-driven decisions.<br><br>
+__What are visual aids for exploratory analysis?__<br>
+- __UniVariate Plotting__ 
+  - Bar Chart
+  - Line Chart
+  - Area Chart
+  - HistoGram
+- __Bi-Variate Plotting__
+  - Scatter Plot
+  - Hex Plot
+  - Stacked Bar Chart
+  - Bi-Variate Line Chart
+  - Pair Plot
+- __Multi-Variate Plotting__
+  - Multi-Variate Scatter Plot
+  - Grouped Box Plot
+  - Heap Map Plot
+  - Parallel Co-Ordinates
+  - Swarn Plot<br>
+  
+![image.jpg](images/GraphPlot.jpg)
 
 
 
