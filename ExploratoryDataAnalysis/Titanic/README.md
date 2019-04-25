@@ -8,11 +8,42 @@
 
 ## Objective
 ![image.jpg](./Survived.jpg)<br>
-- Our objectives is to analyze the what sorts of people were likely to survived or died.
+- Our objectives is to __analyze__ the what sorts of people were likely to __survived__ or __died__.
 ## DataSet Info
 - This __dataset__ consists of the __information__ about people boarding the famous __RMS Titanic__. Various variables present in the __dataset__ includes __data of age__, __sex__, __fare__, __ticket__ etc.
-- The dataset comprises of __891 observations of 12 columns__.<br>
-![image.png](./description.png)
+- The dataset comprises of __891 observations of 12 columns__.<br> 
+![image.png](/.data.png)
+
+## Way to do Titanic EDA
+- load the required packages
+- load the Titanic Dataset
+- Apply the statistical method to understand the data
+- Apply the pandas profiling before preprocessing for better understanding of data
+- Preprocessing of data
+- Pandas Profiling after preprocessing
+- Visualization of Data
+
+## Visualization of Survived or Died People
+![image.png](./count.png)
+- Based on Count Plot we can conclude that more people were died as compare to survived people.
+- More than 500 people were died while less than 400 people survived.
+
+## Visual representation of survived child,Male and Female
+![image.png](./GenderSurvived.png)
+- Based on this graph, majority of male people died
+- Females and Child have high probability to survive.
+
+## Conclusion :
+- Based on this Exploratory Data Analysis we are able to analyse the ratio of survived or died people.
+  - __76%__ of __females__ survived.
+  - __57%__ of __children__ also survived.
+  - Only __16%__ of __males__ survived.
+  - Also the survival rate for male is very low irrespective of the class he belongs to and the survival rate is less for all the 3rd class passengers. Almost all women in Pclass 1 and 2 survived and nearly all men in Pclass 2 and 3 died.
+
+
+
+
+## ------------------------------------------------------------------------------------------------------- ##
 
 
 
