@@ -47,15 +47,15 @@
  ![image.png](./team.png)
  
  ## Conclusion After EDA
-- We used the dataset containing 696 match data in order to predict the outcome of the Indian Premier League match.
+- We used the __dataset__ containing __696 match data__ in order to __predict__ the outcome of the __Indian Premier League match__.
 - These number of matches details were obtained after putting the dataset through cleaning and pre-processing.
-- Based On these data we conclude that Mumbai Indians is the the most winning team in whole IPL.
-- There have been eleven seasons of the IPL tournament.
-- The current IPL title holders are the Chennai Super Kings, who won the 2018 season.
-- The most successful franchises in the tournament are the Chennai Super Kings and Mumbai Indians with 3 tournament wins each.
+- Based On these data we conclude that __Mumbai Indians__ is the the __most winning team__ in whole __IPL__.
+- There have been __eleven seasons__ of the __IPL tournament__.
+- The __current IPL title holder__ is the __Chennai Super Kings__, who __won__ the __2018 season__.
+- The most __successful franchises__ in the tournament are the __Chennai Super Kings__ and __Mumbai Indians__ with 3 tournament wins each.
 - Whoever team won the toss most probably they won the match.
-- 2013 season had played the most number of matches.
-- Most Successful team roll played as Mumbai Indians.
+- __2013 season__ had __played__ the __most number of matches__.
+- Most __Successful team__ roll played as __Mumbai Indians__.
 
 
  
