@@ -73,7 +73,7 @@ ___
 - The sinking of the __RMS Titanic__ is one of the most infamous __shipwrecks in history__.  On __April 15, 1912__, during her maiden voyage, the __Titanic sank__ after __colliding__ with an __iceberg__, __killing 1502 out of 2224 passengers and crew__.<br>
 - One of the reasons that the __shipwreck__ led to such __loss of life__ was that there were __not enough lifeboats__ for the __passengers and crew__. Although there was some eement of luck involved in surviving the sinking, some groups of people were __more likely to survive__ than others, such as __women, children__, and the __upper-class__.<br>
 - In this challenge, we will do the complete the __analysis__ of what __sorts of people__ were likely to __survive__.<br>
-- [Link for the Jupyter notebook](./Titanic/EDATitanic.ipynb)
+[Link for the Jupyter notebook](./Titanic/EDATitanic.ipynb)
 ___
 <a id=section2></a>
 ### [India Premier League Exploratory Data Analysis](./Ipl)
@@ -81,4 +81,4 @@ ___
 - The __Indian Premier League (IPL)__ is a professional __Twenty20 cricket__ league in __India__ contested during __March or April and May__ of every year by __eight teams__ representing eight different cities in __India__.
 - The __league__ was __founded__ by the __Board of Control for Cricket in India (BCCI)__ in __2008__, and is regarded as the brainchild of __Lalit Modi__, the __founder__ and former commissioner of the __league__.
 - The objective of the __Exploratory Data Analysis__ is to try and __analyze__ Indian Premier League __data__.<br>
-- [Link for the Jupyter notebook](./Ipl/IPL_Match_Eda.ipynb)
+[Link for the Jupyter notebook](./Ipl/IPL_Match_Eda.ipynb)
