@@ -44,6 +44,7 @@
  ## IPL Team Visualization
  - According to graph,Most of the time Mumbai Indians is the match winner in whole season.
  - Rising Pune SuperGiants is a match loser.<br>
+ ![image.png](./team.png)
  
  ## Conclusion After EDA
 - We used the dataset containing 696 match data in order to predict the outcome of the Indian Premier League match.
