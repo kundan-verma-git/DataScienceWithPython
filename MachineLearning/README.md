@@ -9,7 +9,7 @@ __Machine learning__ algorithms are used in a wide variety of applications, such
 ![image.jpg](images/machine_learning.jpg)<br>
  __Machine learning__ is uses __computational statistics__ to analyze the __pattern__, which __focuses__ on making __predictions using computers__.<br><br>
 ## Machine Learning Vs Traditional Programming?
-- A __traditional algorithm__ takes some __input__ and some __logic__ in the __form of code__ and returns the __output__. As opposed to this, a __Machine Learning__ Algorithm takes an __input__ and an __output__ and gives the some __logic__ which can then be used to work with new input to give one an output. 
+- A __traditional algorithm__ takes some __input__ and some __logic__ in the __form of code__ and returns the __output__. As opposed to this, a __Machine Learning__ Algorithm takes an __input__ and an __output__ and gives the some __logic__ which can then be used to work with new input to give one an output. <br>
 ![image.png](images/mlvsprogram.png)
 
 
