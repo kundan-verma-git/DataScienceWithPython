@@ -15,6 +15,15 @@ __Machine learning__ algorithms are used in a wide variety of applications, such
 - Broadly, there are 3 types of Machine Learning Algorithms
  ![image.jpeg](images/typesofml.jpeg)
  
- 
+ ## Repository Overview
+This repository is about different Machine Learning algorithm approaches as per the industry practices.
+
+## Table of Contents
+- [House Price Prediction](#section1)<br>
+- [Titanic Survival Analysis](#section2)<br>
+
+<a id=section1></a>
+### [House Price Prediction](./TelecomChurn)
+![image.jpg](image/telecom.jpg)<br><br>
  
 
