@@ -1,2 +1,2 @@
 # House Price Prediction
-![image.png](images/image.png)
+![image.png](images/house_price.png)
