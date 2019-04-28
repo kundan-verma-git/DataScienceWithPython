@@ -24,7 +24,7 @@ This repository is about different Machine Learning algorithm approaches as per 
 
 <a id=section1></a>
 ### [House Price Prediction](./house_price_prediction)
-![image.png](image/house_price.png)<br><br>
+![image.png](images/house_price.png)<br><br>
 - The problem is to build a model that will __predict house prices__ with a high degree of predictive accuracy given the available data.<br>
 - The __dataset__ is the prices and features of residential houses sold.
 - The dataset comprises of 1460 observations of 81 columns.
@@ -34,6 +34,6 @@ This repository is about different Machine Learning algorithm approaches as per 
 ___
 <a id=section2></a>
 ### [Titanic Survival Analysis](./CustomerSegmentationUsingRFM)
-![image.jpg](image/rfm1.jpg)<br><br>
+![image.jpg](images/rfm1.jpg)<br><br>
  
 
