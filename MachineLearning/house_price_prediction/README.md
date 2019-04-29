@@ -33,9 +33,9 @@
 
 ## House Sales Price Model Using Linear and Random Regression 
 - House Pricing using Linear Regression
-  - ![image.png](images/linear_regression_price.png)
+![image.png](images/linear_regression_price.png)
 - House Pricing using random Forest Regression
-  - ![images.png](images/random_forest.png)
+![images.png](images/random_forest.png)
   
  ## Model evaluation
  - __Linear Regression__
