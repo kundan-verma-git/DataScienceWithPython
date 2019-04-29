@@ -46,7 +46,7 @@
 SO Overall __Accuracy__ for Linear regression is __87.00%__.   
 - __Random Forest Regression__
   - Using random forest Accuracy got increased by 1% that is __88.00%__.
-- [Link for the Jupyter notebook](./house_price_prediction/House_Price_Prediction.ipynb)
+- [Link for the Jupyter notebook](./House_Price_Prediction.ipynb)
 
 ## --------------------------------------------------------------------------------------------------------- ##
 
