@@ -52,7 +52,7 @@
   - This predicted survival ratio is compared to the actual value of survival ratio to check the model prformance.<br>
   
 ## Model Evaluation Using Accracy Score and Confusion Matrix
-### Accuracy Score__
+### Accuracy Score
 - __Model Evaluation__ using __accuracy_score__ is __0.8044__.<br>
 ### Confusion Matrix
 ![image.png](images/confusion.png)
