@@ -12,7 +12,7 @@
   - __Target Variable__ is normally distributed after log transformation applied.
 ![image.png](images/normallydistributed.png)
 
-## Exploratort Data Analysis 
+## Exploratory Data Analysis 
 ![image.jpg](images/eda.jpg)
 - Once log transformation done ,I have selected numeric features to make the correlation between them.
 - After correlation between the numeric features , Again i have selected more than 50% correlation features.
