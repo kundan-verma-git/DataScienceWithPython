@@ -1,4 +1,4 @@
-# House Price Prediction
+# Housing Price Prediction
 ![image.png](images/house_price.png)
 - The __dataset__ which consists __information__ about the __house__ ,like-LotArea, Street, YearBuilt, OverallQual, Bedroom, Kitchen, other aspects and sale price of house based on previous selling.
 - The dataset comprises of __1460__ observations of __81__ columns.
@@ -31,7 +31,7 @@
   - Depending on the features of an house, the regression model predicts the sales price of house.
   - This predicted sales price is compared to the actual value of sales price to check the model prformance. 
 
-## House Sales Price Model Using Linear and Random Regression 
+## Housing price Model Using Linear and Random Regression 
 - House Pricing using Linear Regression
 ![image.png](images/linear_regression_price.png)
 - House Pricing using random Forest Regression
