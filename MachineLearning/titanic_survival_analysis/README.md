@@ -60,7 +60,7 @@
 - The number of __correct__ and __incorrect predictions__ are __summarized__ with count values and broken down by each class.
 - 95 + 49 = 144 correct predictions & 24 + 11 = 35 false predictions.
 - so __Model Evaluation__ using __Confusion Matrix__ is __0.8044__.
-- [Link for the Jupyter notebook](./titanic_survival_analysis/DecisionTreesTitanicDataset.ipynb)
+- [Link for the Jupyter notebook](./DecisionTreesTitanicDataset.ipynb)
 
 ## ---------------------------------------------------------------------------------------------##
 
