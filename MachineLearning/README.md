@@ -33,7 +33,7 @@ This repository is about different Machine Learning algorithm approaches as per 
 
 ___
 <a id=section2></a>
-### [Titanic Survival Analysis](./CustomerSegmentationUsingRFM)
-![image.jpg](images/rfm1.jpg)<br><br>
+### [Titanic Survival Analysis](./titanic_survival_analysis)
+![image.jpg](images/titanic.jpg)<br>
  
 
