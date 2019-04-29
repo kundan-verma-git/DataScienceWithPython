@@ -35,5 +35,10 @@ ___
 <a id=section2></a>
 ### [Titanic Survival Analysis](./titanic_survival_analysis)
 ![image.jpg](images/titanic.jpg)<br>
+- The __RMS Titanic__, billed as unsinkable, sinks into the icy waters of the North Atlantic after hitting an iceberg on its maiden voyage, killing 1,517 people.
+- The dataset consists of the information about people boarding the famous RMS Titanic. Various variables present in the dataset includes data of age, sex, fare, ticket etc.
+- The dataset comprises of 891 observations of 12 columns.
+- [Link for the Jupyter notebook](./titanic_survival_analysis/DecisionTreesTitanicDataset.ipynb)
  
 
+## ---------------------------------------------------------------------------------------------- ##
