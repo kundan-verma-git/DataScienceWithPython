@@ -1,2 +1,2 @@
 # Titanic Survival Analysis
-![image.png](images/titanicbanner.png)
+![image.png](images/banner.png)
