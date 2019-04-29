@@ -31,6 +31,19 @@
   - Depending on the features of an house, the regression model predicts the sales price of house.
   - This predicted sales price is compared to the actual value of sales price to check the model prformance. 
 
-
-
+## House Sales Price Model Using Linear and Random Regression 
+- House Pricing using Linear Regression
+  - ![image.png](images/linear_regression_price.png)
+- House Pricing using random Forest Regression
+  - ![images.png](images/random_forest.png)
+  
+ ## Model evaluation
+ - __Linear Regression__
+  - __Root Mean Squared Error (RMSE)__ is the square root of the mean of the squared errors.
+    - RMSE value is __0.14437__ for  house pricing using linear regression.
+  - One more method to evaluate __linear regression__ model and that is by using the __Rsquared__ value.
+    - Rsquared value is __0.87__
+SO Overall __Accuracy__ for Linear regression is __87.00%__.   
+- __Random Forest Regression__
+  - Using random forest Accuracy got increased by 1% that is __88.00%__.
 
